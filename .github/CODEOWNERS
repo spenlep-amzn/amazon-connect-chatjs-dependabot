@@ -1,4 +1,5 @@
-# Last updated: September 2023
 # Team: https://github.com/orgs/amazon-connect/teams/blitz
 
-* @amazon-connect/blitz
+# Auto-assign two PR reviewers (round robin)
+# Note: this will not apply to Dependabot PR
+src/* @amazon-connect/blitz
